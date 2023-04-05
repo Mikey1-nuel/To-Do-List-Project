@@ -7,7 +7,7 @@
   
   https://www.youtube.com/watch?v=2QIMUBilooc
   
-   https://mikey1-nuel.github.io/To-Do-List-Project
+   https://mikey1-nuel.github.io/To-Do-List-Project/
 
 </div>
 
