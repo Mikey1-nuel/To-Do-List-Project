@@ -24,9 +24,6 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-**Page sample**
-
-<img src="./awesome_books_basic_ui.png" width="250px">
 
 # 📖 To-Do-List <a name="about-project"></a>
 
