@@ -1,0 +1,141 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  width: 100%;
+  overflow-x: hidden;
+  font-family: 'Poppins', sans-serif;
+}
+
+.main {
+  width: 100%;
+}
+
+.container {
+  width: 60%;
+  margin: 150px auto;
+  background: #fff;
+  border-radius: 7px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+}
+
+.title {
+  font-size: 1.3rem;
+  font-weight: 400;
+  font-family: 'Poppins', sans-serif;
+  padding: 0 20px;
+  color: #858585;
+}
+
+.sub-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-top: 2px solid #ccc;
+  width: 100%;
+  height: 62px;
+}
+
+.sub-container i {
+  padding: 0 20px;
+  color: #bfbfbf;
+  font-size: 16px;
+}
+
+.sub-container2 input {
+  height: 100%;
+  width: 100%;
+  outline: none;
+  font-size: 16px;
+  border-radius: 5px;
+  border: none;
+  padding: 0 20px;
+}
+
+.sub-container2 i {
+  padding: 0 20px;
+  color: #bfbfbf;
+  rotate: 90deg;
+  font-size: 8px;
+}
+
+.sub-container2 input::placeholder {
+  color: #bfbfbf;
+  font-style: italic;
+}
+
+.sub-container2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 52px;
+  width: 100%;
+  border-top: 2px solid #ccc;
+}
+
+.list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+
+.list-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-top: 2px solid #ccc;
+  gap: 72px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 20px;
+  width: 100%;
+}
+
+.cont1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 20px;
+  gap: 30px;
+}
+
+.list-item label {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.overlined {
+  text-decoration: line-through;
+  color: #ccc;
+}
+
+button {
+  width: 100%;
+  padding: 20px;
+  font-size: 18px;
+  color: #858585;
+  text-align: center;
+  border: none;
+  outline: none;
+  border-top: 2px solid #ccc;
+}
+
+.cont2 {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+  margin: 20px;
+  justify-content: center;
+}
+
+.cont2 .trash {
+  cursor: pointer;
+}
