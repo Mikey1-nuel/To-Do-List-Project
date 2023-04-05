@@ -4,10 +4,6 @@
   <br/>
 
   <h3><b>To-Do-List</b></h3>
-  
-  https://www.youtube.com/watch?v=2QIMUBilooc
-  
-   https://mikey1-nuel.github.io/To-Do-List-Project/
 
 </div>
 
@@ -55,7 +51,7 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [Live Demo Link](https://www.youtube.com/watch?v=2QIMUBilooc)
+- [Live Demo Link](https://mikey1-nuel.github.io/To-Do-List-Project/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
