@@ -20,7 +20,7 @@ const renderList = () => {
     </div>
     <div class="cont2">
     <i class="fa-regular fa-trash-can trash" data-index="${index}"></i>
-    <i class="li-list fa-solid fa-ellipsis-vertical dots"></i>
+    <i class="li-list fa-solid fa-ellipsis-vertical dots opt"></i>
     </div>
     </li>
     `;
